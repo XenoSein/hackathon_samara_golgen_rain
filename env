@@ -1,0 +1,3 @@
+POSTGRES_PASSWORD=hackathon_pa$$w0rd
+POSTGRES_USER=hackathon
+POSTGRES_DB=hackathon
